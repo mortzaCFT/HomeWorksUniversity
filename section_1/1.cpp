@@ -11,11 +11,11 @@ int main()
     cout << "*" << endl; 
 
     //Method_2 using for loop.
-    for(int i = 0; i < 5; i++)
+    for(int i = 3; i >= 0; i--)
     {
         for(int ii = 0; ii <= i; ii++)
         {
-          cout << '*';
+          cout << '*' << ' ';
         }
         cout << endl;
     }
