@@ -13,8 +13,11 @@ int main()
     //Method_2 using for loop.
     for(int i = 0; i < 5; i++)
     {
-        char star = '*';
-        cout << 
+        for(int ii = 0; ii <= i; ii++)
+        {
+          cout << '*';
+        }
+        cout << endl;
     }
   retrun 0;
 }
