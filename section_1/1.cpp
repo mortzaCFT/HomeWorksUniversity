@@ -19,5 +19,5 @@ int main()
         }
         cout << endl;
     }
-  retrun 0;
+    return 0;
 }
