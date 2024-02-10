@@ -12,7 +12,6 @@ int main()
 
 
 //using this method to get ascii characters from given name.
-// Creator: mortza mansouri
 /*
 int main() {
     std::string name;
