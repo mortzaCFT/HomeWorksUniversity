@@ -11,9 +11,9 @@ int main()
 }
 
 
-//using this method to get ascii characters from given name.
 /*
-int main() {
+int main() 
+{
     std::string name;
     cout << "enter your name: ";
     cin >> name;
