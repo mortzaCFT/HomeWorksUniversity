@@ -3,10 +3,21 @@
 
 using namespace std;
 
+//mortza mansouri homework
+int main()
+{
+    cout << "109 111 114 116 122 97"; 
+    return 0;
+}
+
+
+//using this method to get ascii characters from given name.
+// Creator: mortza mansouri
+/*
 int main() {
     std::string name;
-    std::cout << "enter your name: ";
-    std::cin >> name;
+    cout << "enter your name: ";
+    cin >> name;
 
     std::cout << '\n'; 
     for (char c : name) {
@@ -14,3 +25,4 @@ int main() {
     }
     return 0;
 }
+*/
